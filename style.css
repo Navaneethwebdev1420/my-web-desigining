@@ -1,0 +1,244 @@
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+body{
+    margin: 0;
+}
+
+
+.right-section{
+    width: 50%;
+    float: left;
+}
+
+
+.hor{
+    height: 1px;
+    border-width: 0px;
+    color: gray;
+    background-color: gray;
+    margin-left: 151px;
+    width: 1203px;
+    margin-top: 57px;
+}
+
+
+.webdetails {
+    padding-left: 202px;
+    padding-top: 16px;
+    font-size: small;
+}
+
+
+.webdetails a{
+    text-decoration: none;
+    color: azure;
+}
+
+
+
+.img {
+    width: 126px;
+    height: 93px;
+    margin-left: 8px;
+    margin-top: -41px;
+}
+
+
+#para-1{
+    
+    color: white;
+    margin-left: 169px;
+    margin-top: -43px;
+    font-style: oblique;
+    padding: 0px;
+}
+
+
+
+.nav-bar {
+    padding-left: 22px;
+    padding-top: 54px;
+}
+
+.nav-bar a {
+    color: azure;
+    text-decoration: none;
+    font-style: normal;
+    font-size: 12px;
+}
+
+
+
+.main-body {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position:relative;
+    
+}
+
+
+
+
+
+.photo {
+    margin-top: -11px;
+    width: 100%;
+    margin-left: 1px;
+    height: 514px;
+}
+
+
+
+.main-body .text-block {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100%;
+    margin-left: 1px;
+    margin-top: -34px;
+    font-size: xxx-large;
+    color: white;
+}
+
+ 
+.main-body .para-2 {
+    width: 100%;
+    height: 12px;
+    padding-left: 3px;
+    font-size: 33px;
+    padding-top: 0px;
+}
+
+
+.main-body .btn {
+    width: 119px;
+    height: 47px;
+    margin-left: 59px;
+    background-color: cornsilk;
+    margin-top: 221px;
+}
+
+.gallery {
+    width: 301px;
+    margin-top: 6px;
+    margin-left: 8px;
+    height: 282px;
+}
+
+  
+
+hr {
+    width: 100%;
+}
+
+.subhead{
+    
+    padding-left: 92px;
+    padding-top: 7px;
+    
+     
+}
+
+
+.subcont{
+
+    float: left;
+     
+    
+}
+
+.g2{
+    
+    width: 335px;
+    height: 287px;
+}
+
+
+.main-body .sub-btn {
+    margin-left: 52px;
+    margin-top: 41px;
+    width: 156px;
+    height: 56px;
+    background-color: antiquewhite;
+}
+
+.content {
+    padding-left: 67px;
+    padding-top: 23px;
+}
+
+
+
+.media{
+    
+    margin-left: 20px;
+    margin-top: 3px;
+}
+
+.sedancars{
+    
+    float: left;
+}
+
+
+.image
+{
+    width: 354px;
+    height: 282px;
+    margin-left: 0px;
+}
+
+
+.lefty{
+    width: 50%;
+    float: left;
+     
+    
+    
+}
+
+
+.righty{
+    width: 50%;
+    float: left;
+
+}
+
+
+.lefty a {
+    padding-left: 44px;
+    margin-top: 45px;
+    display: inline-block;
+}
+
+
+
+
+.righty a {
+    padding-left: 44px;
+    margin-top: 29px;
+    display: inline-block;
+}
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+ 
+
+
